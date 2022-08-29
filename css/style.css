@@ -1,0 +1,12 @@
+html, body {
+    background-color:tan;
+    font-size: 100px;
+    text-align: center; 
+    padding-bottom: 50px;
+
+}
+header{
+    text-decoration-color:silver;
+    font-size: 45px;
+    text-align: center; 
+}
