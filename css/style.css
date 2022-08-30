@@ -1,12 +1,16 @@
-html, body {
-    background-color:tan;
-    font-size: 100px;
-    text-align: center; 
-    padding-bottom: 50px;
 
-}
-header{
-    text-decoration-color:silver;
-    font-size: 45px;
-    text-align: center; 
-}
+      h1 {
+        font-size: 5em;
+        color: brown;
+        padding: 1cm;
+      }
+      p {
+        font-size: 3em;
+        color:palevioletred;
+        padding: 1cm; 
+      }
+      html {
+        background-color: tan;
+        text-align: center;
+        font-size: 50px;
+      }
